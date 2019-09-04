@@ -8,6 +8,4 @@ module Findable
 
   end
 
-
-
 end
